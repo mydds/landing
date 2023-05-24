@@ -1,4 +1,7 @@
-
+body {
+  background-color: #000;
+  align-items: center;
+}
 
 .grid {
   display: grid;
